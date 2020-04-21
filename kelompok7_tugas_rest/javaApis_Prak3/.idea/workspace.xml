@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webService:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b45b266a-d3e4-489d-b38c-297f84ac9b2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afnXTDEreemCANivwh0bDwYs5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="webservice" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45b266a-d3e4-489d-b38c-297f84ac9b2b" name="Default Changelist" comment="" />
+      <created>1587135554597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587135554597</updated>
+      <workItem from="1587135555871" duration="6465000" />
+      <workItem from="1587145273604" duration="580000" />
+      <workItem from="1587176088456" duration="837000" />
+      <workItem from="1587180879266" duration="2388000" />
+      <workItem from="1587209222968" duration="1262000" />
+      <workItem from="1587268792670" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="177" key="#Inspections" timestamp="1587137071630">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="440" y="177" key="#Inspections/0.23.1680.977@0.23.1680.977" timestamp="1587137071630" />
+    <state x="440" y="177" key="#Project_Structure" timestamp="1587144571242">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="440" y="177" key="#Project_Structure/0.23.1680.977@0.23.1680.977" timestamp="1587144571242" />
+    <state x="0" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587137442947">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="0" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1587137442947" />
+    <state x="656" y="125" key="SettingsEditor" timestamp="1587209442933">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="656" y="125" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1587209442933" />
+    <state x="517" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587268792897">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="517" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.977@0.23.1680.977" timestamp="1587268792897" />
+    <state x="217" y="96" key="new project wizard" timestamp="1587179803459">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="217" y="96" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1587179803459" />
+  </component>
+</project>
